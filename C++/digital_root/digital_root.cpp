@@ -6,11 +6,11 @@ using namespace std;
 int digitalRoot(int num) {
     int digital;
     vector<int> arr;
-    while (num > 10) {
+    while (num >= 10) {
         while (num > 0) {
             digital = num % 10;
-            num /= 10;
             arr.push_back(digital);
+            num /= 10;
         }
         for (int i = 0; i < arr.size(); i++) {
             num += arr[i];
