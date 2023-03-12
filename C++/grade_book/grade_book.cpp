@@ -19,6 +19,9 @@ char getGrade(int pre, int mid, int fin) {
 }
 
 int main() {
-    cout << getGrade(90, 85, 90) << endl;
+    int pre, mid, fin;
+    cout << "Enter grades for prelims, midterms, and finals: ";
+    cin >> pre >> mid >> fin;
+    cout << "Letter Grade: " << getGrade(pre, mid , fin) << endl;
     return 0;
 }
