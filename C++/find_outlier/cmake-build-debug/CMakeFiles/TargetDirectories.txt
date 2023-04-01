@@ -1,0 +1,3 @@
+/Users/seanulric/Documents/VScode/CodeWars/C++/find_outlier/cmake-build-debug/CMakeFiles/find_outlier.dir
+/Users/seanulric/Documents/VScode/CodeWars/C++/find_outlier/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/seanulric/Documents/VScode/CodeWars/C++/find_outlier/cmake-build-debug/CMakeFiles/rebuild_cache.dir
